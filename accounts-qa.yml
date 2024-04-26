@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
     name: "John Kenny - Developer"
-    email: "johnkenny@eazybank.com"
+    email: "{cipher}4a53f6230277191988526dd0243f45acc5c75008ae4943dab495a72f3ba8d9338b994a172bf937b393a9a4a4522fb86a"
   onCallSupport:
     - (555) 555-8877
     - (555) 523-8878
