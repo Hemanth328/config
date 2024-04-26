@@ -4,7 +4,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related production APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}9b0ab7e1ab82cb1106b1e0a728f2f4698e644bbb7ad1ebf6f97a42489b56c41bbbf10979a56c9a7f7b85e793596b8345"
