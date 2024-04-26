@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs "
   contactDetails:
     name: "John Dheree - Developer"
-    email: "{cipher}4a53f6230277191988526dd0243f45acc5c75008ae4943dab495a72f3ba8d9338b994a172bf937b393a9a4a4522fb86a"
+    email: "{cipher}9b0ab7e1ab82cb1106b1e0a728f2f4698e644bbb7ad1ebf6f97a42489b56c41bbbf10979a56c9a7f7b85e793596b8345"
   onCallSupport:
     - (555) 555-9987
     - (555) 523-9988
