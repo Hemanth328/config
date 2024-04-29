@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to EazyBank cards related local Webhook APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
