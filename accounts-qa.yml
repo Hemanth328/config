@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related to local API's"
   contactDetails:
     name: "Smitha roy - QA Lead"
-    email: "smitha@eazybank.com"
+    email: "{cipher}48aa66bd04d0c9f43ac21d9dd605cd7a8bedb4e619973945c30481877a88154b0f9378f31b68aec5871f63302ec21a9c"
   onCallSupport:
     -(555) 555-1234
     -(555) 523-1345
