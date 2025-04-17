@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related to production API's"
+  message: "Welcome to EazyBank accounts related to Production API's"
   contactDetails:
     name: "Srinu Reddy - Development Lead"
     email: "{cipher}659900f6f73cd4ff640b999f006743f5932cb1133e2cd9443b559224da67d27282031b99284e63b7ed42e51018bef4a0"
